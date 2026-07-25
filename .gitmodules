@@ -1,6 +1,3 @@
-[submodule "pixelart-generator_test"]
-	path = pixelart-generator_test
-	url = https://github.com/flowdevloping/pixelart-generator.git
 [submodule "pixelart-generator"]
 	path = pixelart-generator
 	url = https://github.com/flowdevloping/pixelart-generator.git
