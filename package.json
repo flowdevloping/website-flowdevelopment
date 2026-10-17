@@ -1,0 +1,11 @@
+{
+  "name": "website-flowdevelopment",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "yahoo-finance2": "^4.0.4"
+  }
+}
