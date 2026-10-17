@@ -1,4 +1,4 @@
-// Vercel Serverless Function: GET /api/history?symbol=<ticker>&range=<1d|5d|1mo|3mo|1y|max>
+// Vercel Serverless Function: GET /api/stock-tracker/history?symbol=<ticker>&range=<1d|5d|1mo|3mo|1y|max>
 // Returns chart data in the format the stock tracker expects:
 // [{ date, open, high, low, close, volume }]
 

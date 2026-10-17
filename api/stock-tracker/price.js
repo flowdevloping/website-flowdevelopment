@@ -1,4 +1,4 @@
-// Vercel Serverless Function: GET /api/price?symbol=<ticker>
+// Vercel Serverless Function: GET /api/stock-tracker/price?symbol=<ticker>
 // Returns the current price in the format the stock tracker expects:
 // [{ date, close, name }]
 

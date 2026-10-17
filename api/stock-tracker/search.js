@@ -1,4 +1,4 @@
-// Vercel Serverless Function: GET /api/search?query=<text>
+// Vercel Serverless Function: GET /api/stock-tracker/search?query=<text>
 // Proxy for the Financial Modeling Prep symbol search.
 // The API key stays on the server (Vercel env variable FMP_API_KEY) and is never sent to the browser.
 
